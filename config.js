@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Albedo-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Albedo-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Albedo-BOT '
+global.wm = '                「 Fyuu-BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fyuu-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Fyuu-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Zenss`
-global.packname = 'Albedo-Botz WhatsApp'
-global.author = '                「 Albedo-BOT  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Fyuu`
+global.packname = 'Fyuu-Botz WhatsApp'
+global.author = '                「Fyuu-BOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
